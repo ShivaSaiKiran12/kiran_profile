@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.img-div {
+    height: 400px; /* Adjust the height as per your requirement */
+    background: linear-gradient(to bottom, gray 50%, aliceblue 50%);
+}
+.img-div img{
+    border: 5px solid black;
+}
+.contact{
+    background-color: aquamarine;
+    padding: 50px;
+}
+#certifications{
+    background-color: lightcoral;
+}
+#skills{
+    background-color: lightgoldenrodyellow;
+}
+#about{
+    background-color: lightpink;
+}
